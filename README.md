@@ -11,7 +11,7 @@ SQL querying, and business intelligence visualization.
 - **Power BI** — interactive dashboard and visualizations
 
 ## Data Source
-[LA Crime Data 2020-2024 — LA Open Data Portal](https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-2024/2nrs-mtv8/about_data)
+[LA Crime Data 2020-2024 — LA Open Data Portal][(https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-2024/2nrs-mtv8/about_data)](https://catalog.data.gov/dataset/crime-data-from-2020-to-present)]
 
 ## Key Findings
 - Vehicle theft and battery were the most common crimes across all years
@@ -27,7 +27,7 @@ SQL querying, and business intelligence visualization.
 - Only ~90K arrests out of 1M crimes (~9% clearance rate)
 
 ## Dashboard Preview
-![Dashboard](CrimeDashboard.png)
+![Dashboard](Crime_Dashboard.png)
 
 ## Repository Structure
 - `notebook.ipynb` — data cleaning and feature engineering
