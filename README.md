@@ -27,7 +27,7 @@ SQL querying, and business intelligence visualization.
 - Only ~90K arrests out of 1M crimes (~9% clearance rate)
 
 ## Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](Crime Dashboard.png)
 
 ## Repository Structure
 - `notebook.ipynb` — data cleaning and feature engineering
